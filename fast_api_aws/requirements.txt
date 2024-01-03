@@ -1,0 +1,14 @@
+<<<<<<< HEAD
+fastapi==0.104.1
+uvicorn==0.24.0.post1
+mangum==0.17.0
+dill==0.3.7
+scikit-learn==1.2.2
+nltk==3.8.1
+=======
+fastapi
+uvicorn
+mangum
+joblib
+scikit-learn
+>>>>>>> parent of 2c79f66 ("fix some issues")
